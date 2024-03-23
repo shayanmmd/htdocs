@@ -3,7 +3,7 @@
     "description": "A very simple tested orm for php",
     "type": "library",
     "require": {        
-        "shayan-mmd/shayan-orm": "^1.11",
+        "shayan-mmd/shayan-orm": "*",
         "phpunit/phpunit": "^9.6",
         "fakerphp/faker": "^1.23"
     },
@@ -14,7 +14,7 @@
     },
     "authors": [
         {
-            "name": "shayanmmd",
+            "name": "shayan-mmd",
             "email": "119744618+shayanmmd@users.noreply.github.com"
         }
     ]
