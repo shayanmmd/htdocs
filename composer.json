@@ -2,7 +2,7 @@
     "name": "shayan/shayan-orm",
     "description": "A very simple tested orm for php",
     "type": "library",
-    "require": {
+    "require": {        
         "phpunit/phpunit": "^9.6",
         "fakerphp/faker": "^1.23"
     },
