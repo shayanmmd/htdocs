@@ -1,21 +1,10 @@
 {
+
     "name": "shayan-mmd/shayan-orm",
     "description": "A very simple tested orm for php",
-    "type": "library",
-    "require": {        
-        "shayan-mmd/shayan-orm": "*",
+    "require": {
+        "php": ">=8.2",
         "phpunit/phpunit": "^9.6",
         "fakerphp/faker": "^1.23"
-    },
-    "autoload": {
-        "psr-4": {
-            "App\\": "App/"
-        }
-    },
-    "authors": [
-        {
-            "name": "shayan-mmd",
-            "email": "119744618+shayanmmd@users.noreply.github.com"
-        }
-    ]
+    }
 }
